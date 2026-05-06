@@ -1,0 +1,9 @@
+{
+    "id": "next-day-plugin",
+    "name": "Next Day File Creator",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "明日（翌日）の日付のファイルをワンクリックで作成します。",
+    "author": "Hiki",
+    "isDesktopOnly": false
+}
